@@ -1,0 +1,19 @@
+@charset "utf-8";
+/*
+Template Name: RS-3 Clean
+Author: <a href="https://www.os-templates.com/">OS Templates</a>
+Author URI: https://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: https://www.os-templates.com/template-terms
+File: Portfolio CSS
+*/
+
+#portfolio{display:block; width:100%;}
+#portfolio ul, #portfolio p{margin:0; padding:0; list-style:none;}
+#portfolio li{display:block; float:left; width:46.875%; margin:0 6.25% 4.16666% 0; padding:0;}
+#portfolio li.last{margin-right:0;}
+#portfolio article, #portfolio article figure{display:block; width:100%;}
+#portfolio article figure img{}
+#portfolio article figure figcaption{display:block; float:right; width:44.44444%; padding:15px 0 0 0; border-top:5px solid #D6D6D6; line-height:1.8em;}
+#portfolio article figure figcaption header{margin:0 0 15px 0; padding:0; font-size:1.4em; font-weight:normal; line-height:normal;}
+#portfolio article figure figcaption p.more{margin-top:15px;}
